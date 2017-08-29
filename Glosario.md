@@ -1,9 +1,9 @@
-# Glosario de terminos
+# Glosario de términos
 
-- por favor ubicar los terminos en orden alfabetico.
+- Por favor ubicar los términos en orden alfabético.
 
-Nota: Este glosario lo veo necesario debido a la gran extension de algunos terminos.
+**Nota:** Este glosario lo veo necesario debido a la gran extensión de algunos términos.
 
-EDD = Evaluacion de desempeño
-EPC = Evaluacion por competencias
-PO = Personal operativo
+* EDD = Evaluacion de desempeño
+* EPC = Evaluacion por competencias
+* PO = Personal operativo
