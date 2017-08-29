@@ -1,6 +1,6 @@
-Glosario de terminos
+# Glosario de terminos
 
--por favor ubicar los terminos en orden alfabetico.
+- por favor ubicar los terminos en orden alfabetico.
 
 Nota: Este glosario lo veo necesario debido a la gran extension de algunos terminos.
 
