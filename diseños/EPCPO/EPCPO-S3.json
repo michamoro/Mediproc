@@ -1,0 +1,584 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "measuredH": "33",
+                    "measuredW": "352",
+                    "properties": {
+                        "size": "28",
+                        "text": "Competencias Corporativas"
+                    },
+                    "typeID": "Title",
+                    "x": "38",
+                    "y": "22",
+                    "zOrder": "2"
+                },
+                {
+                    "ID": "3",
+                    "h": "599",
+                    "locked": "true",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "typeID": "Canvas",
+                    "w": "875",
+                    "x": "11",
+                    "y": "6",
+                    "zOrder": "0"
+                },
+                {
+                    "ID": "5",
+                    "h": "22",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "12",
+                        "text": "Estas son las competencias que deben estar presentes en todos los empleados de RECUPERAR:"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "677",
+                    "x": "38",
+                    "y": "55",
+                    "zOrder": "3"
+                },
+                {
+                    "ID": "30",
+                    "h": "88",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "text": "Cada competencia está acompañada de su definición y de 3 comportamientos que reflejan  la existencia de la competencia, para evaluarla debe señalar el numero  que da cuenta de la frecuencia en la que se visualiza el comportamiento en el trabajador, teniendo en cuenta la siguiente escala: \n \n1: NUNCA     2: POCAS VECES      3: ALGUNAS VECES    4: CASI SIEMPRE      5: SIEMPRE"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "688",
+                    "x": "38",
+                    "y": "77",
+                    "zOrder": "4"
+                },
+                {
+                    "ID": "63",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "38",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "properties": {
+                                        "borderStyle": "roundedSolid",
+                                        "color": "545684"
+                                    },
+                                    "typeID": "Canvas",
+                                    "w": "186",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "h": "26",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "18",
+                                        "text": "Sección 3 de 14"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "152",
+                                    "x": "21",
+                                    "y": "6",
+                                    "zOrder": "1"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "38",
+                    "measuredH": "38",
+                    "measuredW": "186",
+                    "typeID": "__group__",
+                    "w": "186",
+                    "x": "355",
+                    "y": "551",
+                    "zOrder": "5"
+                },
+                {
+                    "ID": "64",
+                    "h": "38",
+                    "measuredH": "27",
+                    "measuredW": "103",
+                    "properties": {
+                        "size": "18",
+                        "text": "Siguiente"
+                    },
+                    "typeID": "Button",
+                    "w": "155",
+                    "x": "715",
+                    "y": "551",
+                    "zOrder": "6"
+                },
+                {
+                    "ID": "65",
+                    "h": "38",
+                    "measuredH": "27",
+                    "measuredW": "90",
+                    "properties": {
+                        "size": "18",
+                        "text": "Anterior"
+                    },
+                    "typeID": "Button",
+                    "w": "155",
+                    "x": "27",
+                    "y": "551",
+                    "zOrder": "7"
+                },
+                {
+                    "ID": "77",
+                    "h": "329",
+                    "locked": "true",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "typeID": "Canvas",
+                    "w": "843",
+                    "x": "27",
+                    "y": "190",
+                    "zOrder": "1"
+                },
+                {
+                    "ID": "85",
+                    "measuredH": "27",
+                    "measuredW": "92",
+                    "properties": {
+                        "color": "10066329",
+                        "text": "Retroceder"
+                    },
+                    "typeID": "Button",
+                    "x": "47",
+                    "y": "476",
+                    "zOrder": "10"
+                },
+                {
+                    "ID": "92",
+                    "measuredH": "29",
+                    "measuredW": "179",
+                    "properties": {
+                        "size": "24",
+                        "text": "AUTO CUIDADO"
+                    },
+                    "typeID": "Title",
+                    "x": "47",
+                    "y": "200",
+                    "zOrder": "11"
+                },
+                {
+                    "ID": "94",
+                    "h": "43",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "text": "Es la capacidad de preocuparse y ocuparse por el cuidado de si y de los demás;  reconociendo los peligros y riesgos del entorno y la forma de prevenirlos y minimizarlos."
+                    },
+                    "typeID": "Paragraph",
+                    "w": "628",
+                    "x": "47",
+                    "y": "229",
+                    "zOrder": "12"
+                },
+                {
+                    "ID": "116",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "0",
+                                    "y": "1",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "72",
+                                    "y": "2",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "150",
+                                    "y": "2",
+                                    "zOrder": "2"
+                                },
+                                {
+                                    "ID": "3",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "227",
+                                    "y": "1",
+                                    "zOrder": "3"
+                                },
+                                {
+                                    "ID": "4",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "305",
+                                    "y": "0",
+                                    "zOrder": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "23",
+                    "measuredH": "23",
+                    "measuredW": "325",
+                    "typeID": "__group__",
+                    "w": "325",
+                    "x": "501",
+                    "y": "308",
+                    "zOrder": "8"
+                },
+                {
+                    "ID": "117",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "0",
+                                    "y": "1",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "72",
+                                    "y": "2",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "150",
+                                    "y": "2",
+                                    "zOrder": "2"
+                                },
+                                {
+                                    "ID": "3",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "227",
+                                    "y": "1",
+                                    "zOrder": "3"
+                                },
+                                {
+                                    "ID": "4",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "305",
+                                    "y": "0",
+                                    "zOrder": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "23",
+                    "measuredH": "23",
+                    "measuredW": "325",
+                    "typeID": "__group__",
+                    "w": "325",
+                    "x": "501",
+                    "y": "363",
+                    "zOrder": "13"
+                },
+                {
+                    "ID": "118",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "0",
+                                    "y": "1",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "72",
+                                    "y": "2",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "150",
+                                    "y": "2",
+                                    "zOrder": "2"
+                                },
+                                {
+                                    "ID": "3",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "227",
+                                    "y": "1",
+                                    "zOrder": "3"
+                                },
+                                {
+                                    "ID": "4",
+                                    "measuredH": "21",
+                                    "measuredW": "20",
+                                    "properties": {
+                                        "size": "20",
+                                        "text": ""
+                                    },
+                                    "typeID": "RadioButton",
+                                    "x": "305",
+                                    "y": "0",
+                                    "zOrder": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "23",
+                    "measuredH": "23",
+                    "measuredW": "325",
+                    "typeID": "__group__",
+                    "w": "325",
+                    "x": "501",
+                    "y": "422",
+                    "zOrder": "14"
+                },
+                {
+                    "ID": "126",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "22",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "16",
+                                        "text": "1"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "17",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "h": "22",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "16",
+                                        "text": "2"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "17",
+                                    "x": "71",
+                                    "y": "0",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "h": "22",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "16",
+                                        "text": "3"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "17",
+                                    "x": "151",
+                                    "y": "0",
+                                    "zOrder": "2"
+                                },
+                                {
+                                    "ID": "3",
+                                    "h": "22",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "16",
+                                        "text": "4"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "17",
+                                    "x": "225",
+                                    "y": "0",
+                                    "zOrder": "3"
+                                },
+                                {
+                                    "ID": "4",
+                                    "h": "22",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "16",
+                                        "text": "5"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "17",
+                                    "x": "305",
+                                    "y": "0",
+                                    "zOrder": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "22",
+                    "measuredH": "22",
+                    "measuredW": "322",
+                    "typeID": "__group__",
+                    "w": "322",
+                    "x": "504",
+                    "y": "272",
+                    "zOrder": "15"
+                },
+                {
+                    "ID": "127",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "59",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "typeID": "BlockOfText",
+                                    "w": "385",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "h": "59",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "typeID": "BlockOfText",
+                                    "w": "385",
+                                    "x": "0",
+                                    "y": "59",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "h": "58",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "typeID": "BlockOfText",
+                                    "w": "385",
+                                    "x": "0",
+                                    "y": "118",
+                                    "zOrder": "2"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "176",
+                    "measuredH": "176",
+                    "measuredW": "385",
+                    "typeID": "__group__",
+                    "w": "385",
+                    "x": "47",
+                    "y": "288",
+                    "zOrder": "9"
+                }
+            ]
+        },
+        "measuredH": "605",
+        "measuredW": "886",
+        "mockupH": "599",
+        "mockupW": "875",
+        "version": "1.0"
+    }
+}
