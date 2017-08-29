@@ -1,0 +1,473 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "measuredH": "33",
+                    "measuredW": "212",
+                    "properties": {
+                        "size": "28",
+                        "text": "Datos Generales"
+                    },
+                    "typeID": "Title",
+                    "x": "38",
+                    "y": "22",
+                    "zOrder": "1"
+                },
+                {
+                    "ID": "3",
+                    "h": "515",
+                    "locked": "true",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "typeID": "Canvas",
+                    "w": "875",
+                    "x": "11",
+                    "y": "6",
+                    "zOrder": "0"
+                },
+                {
+                    "ID": "5",
+                    "h": "22",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "12",
+                        "text": "ALCANCE: LA EVALUACIÓN SE APLICA A TODO EL PERSONAL QUE HAYA CUMPLIDO DOS MESES EN LA EMPRESA.\n "
+                    },
+                    "typeID": "Paragraph",
+                    "w": "677",
+                    "x": "38",
+                    "y": "55",
+                    "zOrder": "2"
+                },
+                {
+                    "ID": "30",
+                    "h": "34",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "text": "Leer con atención cada uno de los item. Encontrará algunas preguntas de selección múltiple y otras de respuestas abiertas, debe responderlas todas para que el programa le permita continuar."
+                    },
+                    "typeID": "Paragraph",
+                    "w": "593",
+                    "x": "38",
+                    "y": "77",
+                    "zOrder": "4"
+                },
+                {
+                    "ID": "32",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "443",
+                                    "y": "0",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "443",
+                                    "y": "84",
+                                    "zOrder": "1"
+                                },
+                                {
+                                    "ID": "2",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "443",
+                                    "y": "169",
+                                    "zOrder": "2"
+                                },
+                                {
+                                    "ID": "3",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "443",
+                                    "y": "253",
+                                    "zOrder": "3"
+                                },
+                                {
+                                    "ID": "4",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "4"
+                                },
+                                {
+                                    "ID": "5",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "0",
+                                    "y": "84",
+                                    "zOrder": "5"
+                                },
+                                {
+                                    "ID": "6",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "0",
+                                    "y": "169",
+                                    "zOrder": "6"
+                                },
+                                {
+                                    "ID": "7",
+                                    "h": "68",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "0",
+                                    "y": "253",
+                                    "zOrder": "7"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "321",
+                    "locked": "true",
+                    "measuredH": "321",
+                    "measuredW": "843",
+                    "typeID": "__group__",
+                    "w": "843",
+                    "x": "27",
+                    "y": "121",
+                    "zOrder": "3"
+                },
+                {
+                    "ID": "34",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Nombres"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "145",
+                    "x": "47",
+                    "y": "127",
+                    "zOrder": "5"
+                },
+                {
+                    "ID": "37",
+                    "measuredH": "27",
+                    "measuredW": "79",
+                    "typeID": "TextInput",
+                    "w": "377",
+                    "x": "38",
+                    "y": "152",
+                    "zOrder": "6"
+                },
+                {
+                    "ID": "38",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Apellidos"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "145",
+                    "x": "488",
+                    "y": "127",
+                    "zOrder": "7"
+                },
+                {
+                    "ID": "39",
+                    "measuredH": "27",
+                    "measuredW": "79",
+                    "typeID": "TextInput",
+                    "w": "377",
+                    "x": "479",
+                    "y": "152",
+                    "zOrder": "8"
+                },
+                {
+                    "ID": "40",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Cedula"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "145",
+                    "x": "47",
+                    "y": "211",
+                    "zOrder": "9"
+                },
+                {
+                    "ID": "41",
+                    "measuredH": "27",
+                    "measuredW": "79",
+                    "typeID": "TextInput",
+                    "w": "377",
+                    "x": "38",
+                    "y": "236",
+                    "zOrder": "10"
+                },
+                {
+                    "ID": "42",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Empresa"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "145",
+                    "x": "488",
+                    "y": "211",
+                    "zOrder": "11"
+                },
+                {
+                    "ID": "44",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Área o unidad de negocio"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "225",
+                    "x": "47",
+                    "y": "298",
+                    "zOrder": "12"
+                },
+                {
+                    "ID": "46",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Antigüedad en el contrato"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "227",
+                    "x": "488",
+                    "y": "298",
+                    "zOrder": "13"
+                },
+                {
+                    "ID": "48",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Nombre del evaluador"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "186",
+                    "x": "47",
+                    "y": "378",
+                    "zOrder": "14"
+                },
+                {
+                    "ID": "49",
+                    "measuredH": "27",
+                    "measuredW": "79",
+                    "typeID": "TextInput",
+                    "w": "377",
+                    "x": "38",
+                    "y": "403",
+                    "zOrder": "15"
+                },
+                {
+                    "ID": "50",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "18",
+                        "text": "Cargo del Evaluador (Jefe inmediato)"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "314",
+                    "x": "488",
+                    "y": "378",
+                    "zOrder": "16"
+                },
+                {
+                    "ID": "52",
+                    "measuredH": "22",
+                    "measuredW": "47",
+                    "properties": {
+                        "text": "SAS"
+                    },
+                    "typeID": "RadioButton",
+                    "x": "479",
+                    "y": "238",
+                    "zOrder": "17"
+                },
+                {
+                    "ID": "53",
+                    "measuredH": "22",
+                    "measuredW": "45",
+                    "properties": {
+                        "text": "CTA"
+                    },
+                    "typeID": "RadioButton",
+                    "x": "538",
+                    "y": "238",
+                    "zOrder": "18"
+                },
+                {
+                    "ID": "54",
+                    "measuredH": "27",
+                    "measuredW": "133",
+                    "properties": {
+                        "text": "Seleccionar Área"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "378",
+                    "x": "38",
+                    "y": "323",
+                    "zOrder": "19"
+                },
+                {
+                    "ID": "55",
+                    "measuredH": "27",
+                    "measuredW": "173",
+                    "properties": {
+                        "text": "Seleccionar Antigüedad"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "378",
+                    "x": "479",
+                    "y": "323",
+                    "zOrder": "20"
+                },
+                {
+                    "ID": "56",
+                    "measuredH": "27",
+                    "measuredW": "140",
+                    "properties": {
+                        "text": "Seleccionar Cargo"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "378",
+                    "x": "479",
+                    "y": "403",
+                    "zOrder": "21"
+                },
+                {
+                    "ID": "63",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "38",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "properties": {
+                                        "borderStyle": "roundedSolid",
+                                        "color": "545684"
+                                    },
+                                    "typeID": "Canvas",
+                                    "w": "186",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "h": "26",
+                                    "measuredH": "80",
+                                    "measuredW": "275",
+                                    "properties": {
+                                        "size": "18",
+                                        "text": "Sección 2 de 14"
+                                    },
+                                    "typeID": "Paragraph",
+                                    "w": "152",
+                                    "x": "21",
+                                    "y": "6",
+                                    "zOrder": "1"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "38",
+                    "measuredH": "38",
+                    "measuredW": "186",
+                    "typeID": "__group__",
+                    "w": "186",
+                    "x": "355",
+                    "y": "467",
+                    "zOrder": "22"
+                },
+                {
+                    "ID": "64",
+                    "h": "38",
+                    "measuredH": "27",
+                    "measuredW": "103",
+                    "properties": {
+                        "size": "18",
+                        "text": "Siguiente"
+                    },
+                    "typeID": "Button",
+                    "w": "155",
+                    "x": "715",
+                    "y": "467",
+                    "zOrder": "23"
+                },
+                {
+                    "ID": "65",
+                    "h": "38",
+                    "measuredH": "27",
+                    "measuredW": "90",
+                    "properties": {
+                        "size": "18",
+                        "text": "Anterior"
+                    },
+                    "typeID": "Button",
+                    "w": "155",
+                    "x": "27",
+                    "y": "467",
+                    "zOrder": "24"
+                }
+            ]
+        },
+        "measuredH": "521",
+        "measuredW": "886",
+        "mockupH": "515",
+        "mockupW": "875",
+        "version": "1.0"
+    }
+}
