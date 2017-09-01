@@ -2,13 +2,20 @@
 <html>
   <head>
     <title>{{title}}</title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel="icon" href="/images/favicon.ico">
     <link rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
       integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
-      crossorigin="anonymous">
-      <script crossorigin src="https://unpkg.com/react@15/dist/react.js"></script>
-      <script crossorigin src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>
+      crossorigin="anonymous"
+    />
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+
+    <!-- Añadirá la lista de estilos pasados por el contexto, si existen -->
+    {{#if styles}}
+      {{#each styles}}
+        <link rel='stylesheet' href='{{this}}' />
+      {{/each}}
+    {{/if}}
   </head>
   <body>
     {{{body}}}
